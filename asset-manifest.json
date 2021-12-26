@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/resto-app/static/css/main.dbfc5b8f.chunk.css",
+    "main.js": "/resto-app/static/js/main.814e63ff.chunk.js",
+    "main.js.map": "/resto-app/static/js/main.814e63ff.chunk.js.map",
+    "runtime-main.js": "/resto-app/static/js/runtime-main.c20797e1.js",
+    "runtime-main.js.map": "/resto-app/static/js/runtime-main.c20797e1.js.map",
+    "static/js/2.780573d2.chunk.js": "/resto-app/static/js/2.780573d2.chunk.js",
+    "static/js/2.780573d2.chunk.js.map": "/resto-app/static/js/2.780573d2.chunk.js.map",
+    "index.html": "/resto-app/index.html",
+    "static/css/main.dbfc5b8f.chunk.css.map": "/resto-app/static/css/main.dbfc5b8f.chunk.css.map",
+    "static/js/2.780573d2.chunk.js.LICENSE.txt": "/resto-app/static/js/2.780573d2.chunk.js.LICENSE.txt",
+    "static/media/food-bg.fd26761e.jpg": "/resto-app/static/media/food-bg.fd26761e.jpg",
+    "static/media/shopping-cart-solid.f0d47d21.svg": "/resto-app/static/media/shopping-cart-solid.f0d47d21.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c20797e1.js",
+    "static/js/2.780573d2.chunk.js",
+    "static/css/main.dbfc5b8f.chunk.css",
+    "static/js/main.814e63ff.chunk.js"
+  ]
+}
