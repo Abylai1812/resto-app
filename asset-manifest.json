@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/resto-app/static/css/main.dbfc5b8f.chunk.css",
-    "main.js": "/resto-app/static/js/main.814e63ff.chunk.js",
-    "main.js.map": "/resto-app/static/js/main.814e63ff.chunk.js.map",
+    "main.js": "/resto-app/static/js/main.07aafa90.chunk.js",
+    "main.js.map": "/resto-app/static/js/main.07aafa90.chunk.js.map",
     "runtime-main.js": "/resto-app/static/js/runtime-main.c20797e1.js",
     "runtime-main.js.map": "/resto-app/static/js/runtime-main.c20797e1.js.map",
     "static/js/2.780573d2.chunk.js": "/resto-app/static/js/2.780573d2.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c20797e1.js",
     "static/js/2.780573d2.chunk.js",
     "static/css/main.dbfc5b8f.chunk.css",
-    "static/js/main.814e63ff.chunk.js"
+    "static/js/main.07aafa90.chunk.js"
   ]
 }
